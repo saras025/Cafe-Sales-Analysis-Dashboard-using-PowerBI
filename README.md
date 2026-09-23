@@ -41,6 +41,3 @@ Independent food and beverage retail businesses often struggle to track holistic
 
 ---
 
-## 🚀 How to View
-1. Clone this repository or download the `.pbix` file.
-2. Open the dashboard using Microsoft Power BI Desktop to interact with the slicers and filters.
