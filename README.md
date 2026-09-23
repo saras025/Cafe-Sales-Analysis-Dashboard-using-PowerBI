@@ -3,6 +3,7 @@
 An end-to-end data analytics project transforming raw retail transactions into actionable business intelligence using Python and Power BI.
 
 
+<img width="1450" height="815" alt="image" src="https://github.com/user-attachments/assets/3c2f1899-8845-4584-b7da-d944320646fd" />
 
 ---
 
